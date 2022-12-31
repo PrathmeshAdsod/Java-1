@@ -1,0 +1,5 @@
+To Run User Defined Package Containing java file use :
+
+javac filename.java
+javac -d . filename.java
+java pacakgename.filename
